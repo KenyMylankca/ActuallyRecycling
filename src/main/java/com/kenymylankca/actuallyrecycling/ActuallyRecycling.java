@@ -12,7 +12,7 @@ public class ActuallyRecycling
 {
     public static final String MODID = "actuallyrecycling";
     public static final String NAME = "Actually Recycling";
-    public static final String VERSION = "1.0";
+    public static final String VERSION = "2.0";
 
     private static Logger logger;
 
